@@ -1,0 +1,19 @@
+/* You are not allowed to change the CSS code */
+#indicator {
+  position: fixed;
+  top: 8px;
+  right: 8px;
+  background: #ffffff;
+  font-size: 30px;
+}
+
+section {
+  height: 300px;
+  padding: 10px;
+  font-size: 20px;
+}
+
+#section-1 { background: darkred }
+#section-2 { background: green }
+#section-3 { background: orange }
+#section-4 { background: navy }
